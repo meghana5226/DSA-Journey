@@ -78,15 +78,15 @@ When the window size is **dynamic**, changing based on a condition.
 ##  More Problems to Practice
 
 ### Fixed Size:
-- ✅ Maximum Average Subarray I
-- ✅ Max Sum of Subarray of Size K
-- ✅ Number of subarrays with sum ≤ K (Fixed size count)
+-  Maximum Average Subarray I
+-  Max Sum of Subarray of Size K
+-  Number of subarrays with sum ≤ K (Fixed size count)
 
 ### Variable Size:
-- ✅ Longest Substring Without Repeating Characters
-- ✅ Longest Subarray with Sum ≤ K
-- ✅ Minimum Window Substring
-- ✅ Longest Substring with At Most K Distinct Characters
+-  Longest Substring Without Repeating Characters
+-  Longest Subarray with Sum ≤ K
+-  Minimum Window Substring
+-  Longest Substring with At Most K Distinct Characters
 
 ---
 
