@@ -1,0 +1,22 @@
+package PrefixSum.problems;
+
+public class FindPivotIndex {
+    // Leetcode 724 - Find index where left sum == right sum
+    public int pivotIndex(int[] nums) {
+        int total = 0;
+        for (int num : nums) total += num;
+
+        int leftSum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            int rightSum = total - leftSum - nums[i];
+
+            if (leftSum == rightSum) return i;
+
+            leftSum += nums[i];
+        }
+
+        return -1;
+    }
+}
+
