@@ -1,4 +1,4 @@
-package SlidingWindow.problems;
+//package SlidingWindow.problems;
 
 public class MaxConsecutiveOnesIII {
     // Problem: Max Consecutive Ones III (Flip at most k zeros to 1s)

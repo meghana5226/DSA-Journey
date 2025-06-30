@@ -1,5 +1,4 @@
-package SlidingWindow.problems;
-
+//package SlidingWindow.problems;
 public class LongestRepeatingCharReplacement {
  // Problem: Longest Repeating Character Replacement
 // Pattern: Variable Size Sliding Window + Frequency Count

@@ -1,4 +1,4 @@
-package SlidingWindow.problems;
+//package SlidingWindow.problems;
 
 public class MinSizeSubarraySum {
     // Problem: Minimum Size Subarray Sum
